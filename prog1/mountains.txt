@@ -1,0 +1,69 @@
+Shasta
+14179
+Cascade Range
+California
+
+Churchill
+15638
+Saint Elias Mountains
+Alaska
+ 
+Antero
+14276
+Sawatch Range
+Colorado
+
+Granite Peak
+12807
+Beartooth Mountains
+Montana 
+
+Bachelor
+9068
+Cascade Range
+Oregon
+
+Adams
+12281
+Cascade Range
+Washington
+
+Doublet Peak
+13600
+Wind River Range
+Wyoming
+
+Mauna Kea
+13803
+Mauna Kea
+Hawaii
+
+Castle Peak
+9109
+Sierra Nevada
+California
+
+Pyramid Peak
+9985
+Crystal Range
+California
+
+Torbert
+11413
+Tordillo Mountains
+Alaska 
+
+Rainier
+14411
+Cascade Range
+Washington
+
+Half Dome
+8836
+Yosemite National Park
+California 
+
+Jeff Davis Peak
+12771
+Snake Range
+Nevada

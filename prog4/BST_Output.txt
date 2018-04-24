@@ -1,0 +1,229 @@
+
+================================================================================
+                                     MENU
+================================================================================
+
+D - Depth-First Traversals: inorder, preorder, postorder
+I - Iterative Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth-First Traversals: Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu
+E - Exit
+D
+Inorder:
+1500
+1900
+2100
+2500
+2800
+3000
+3300
+3500
+3800
+3900
+4200
+4300
+5000
+
+
+Preorder:
+3800
+3000
+1900
+1500
+2100
+2800
+2500
+3500
+3300
+4300
+3900
+4200
+5000
+
+
+Postorder:
+1500
+2500
+2800
+2100
+1900
+3300
+3500
+3000
+4200
+3900
+5000
+4300
+3800
+
+What would you like to do next?
+i
+Inorder:
+1500
+1900
+2100
+2500
+2800
+3000
+3300
+3500
+3800
+3900
+4200
+4300
+5000
+
+
+Preorder:
+3800
+3000
+1900
+1500
+2100
+2800
+2500
+3500
+3300
+4300
+3900
+4200
+5000
+
+
+Postorder:
+1500
+2500
+2800
+2100
+1900
+3300
+3500
+3000
+4200
+3900
+5000
+4300
+3800
+
+What would you like to do next?
+B
+Breadthorder:
+3800
+3000
+4300
+1900
+3500
+3900
+5000
+1500
+2100
+3300
+4200
+2800
+2500
+
+What would you like to do next?
+S
+Enter student ID to search:
+3800
+
+Student found!
+ID: 3800
+Name: Lee, Victor
+GPA: 2.80
+
+What would you like to do next?
+S
+Enter student ID to search:
+1900
+
+Student found!
+ID: 1900
+Name: Walljasper, Bryan
+GPA: 3.90
+
+What would you like to do next?
+s
+Enter student ID to search:
+5000
+
+Student found!
+ID: 5000
+Name: Lee, Lucy Marie
+GPA: 3.40
+
+What would you like to do next?
+S
+Enter student ID to search:
+9000
+
+Student is not in the tree!
+
+What would you like to do next?
+s
+Enter student ID to search:
+10000
+
+Student is not in the tree!
+
+What would you like to do next?
+H
+
+================================================================================
+                                     MENU
+================================================================================
+
+D - Depth-First Traversals: inorder, preorder, postorder
+I - Iterative Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth-First Traversals: Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu
+E - Exit
+M
+
+Smallest:
+ID: 1500
+Name: Marcus, John
+GPA: 4.00
+
+What would you like to do next?
+X
+
+Largest:
+ID: 5000
+Name: Lee, Lucy Marie
+GPA: 3.40
+
+What would you like to do next?
+A
+Developer: Minh An Cao
+
+What would you like to do next?
+T
+1. 3800
+       2. 4300
+               3. 5000
+               3. 3900
+                       4. 4200
+       2. 3000
+               3. 3500
+                       4. 3300
+               3. 1900
+                       4. 2100
+                               5. 2800
+                                       6. 2500
+                       4. 1500
+
+What would you like to do next?
+E
+Program exiting...
+
+Process returned 0 (0x0)   execution time : 66.738 s
+Press any key to continue.
